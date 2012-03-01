@@ -1,0 +1,19 @@
+#
+# File: re.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       11/03/2010
+# Last Modified: 11/03/2010
+
+#
+
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 03-11-2010/re.py"
+ In the official list of  113809  crosswords,  4502  words begin with 're'. The shortest such word is ' re ' and the longest such word is ' representativenesses '. 
+*********************************************************************
+
+

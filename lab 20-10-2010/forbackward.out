@@ -1,0 +1,80 @@
+#
+# File: forbackward.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       10/20/2010
+# Last Modified: 10/20/2010
+#
+
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/forbackward.py"
+ Enter a word: trinity
+ The letters of the word "trinity" are: 
+t   y
+r   t
+i   i
+n   n
+i   i
+t   r
+y   t
+
+*********************************************************************
+2.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/forbackward.py"
+ Enter a word: train
+ The letters of the word "train" are: 
+t   n
+r   i
+a   a
+i   r
+n   t
+
+*********************************************************************
+3.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/forbackward.py"
+ Enter a word: forbackward
+ The letters of the word "forbackward" are: 
+f   d
+o   r
+r   a
+b   w
+a   k
+c   c
+k   a
+w   b
+a   r
+r   o
+d   f
+
+*********************************************************************
+4.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/forbackward.py"
+ Enter a word: reverse
+ The letters of the word "reverse" are: 
+r   e
+e   s
+v   r
+e   e
+r   v
+s   e
+e   r
+
+*********************************************************************
+5.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/forbackward.py"
+ Enter a word: reviver
+ The letters of the word "reviver" are: 
+r   r
+e   e
+v   v
+i   i
+v   v
+e   e
+r   r
+
+*********************************************************************
+

@@ -1,0 +1,30 @@
+#
+# Author: Vlad Burca
+# Date: 11/02/2010
+# 
+# Name: encrypt
+#
+
+#
+#######################################################################################
+#
+# I/O specification:
+#
+# Input variables: 
+# 	- plaintext = string of lowercase characters, without any punctuation mark.
+#
+# Output variables:
+#	- ciphertext = string of uppercase characters.
+#
+########################################################################################
+#
+# Algorithm:
+#
+# - the program reads the plaintext.
+# - applying the function encrypt(), the program encrypts the plaintext into a ciphertext.
+# - in the function encrypt(), the encrypiton is done by modifying each element of the 
+# plaintext string using the formula t = t + chr((ord(s[i]) - 97 + 3) % 26 + 97 - 32) . 
+# - in this way, the new string (ciphertext) will be the encrypted string (using Caesar's cipher)
+# - after the function is called, the program prints the ciphertext created.
+#
+#######################################################################################

@@ -1,0 +1,35 @@
+#
+# File: maptopiglatin.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       11/03/2010
+# Last Modified: 11/03/2010
+
+#
+
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 03-11-2010/maptopiglatin.py"
+ Required prefix: corr
+ Required suffix: tion
+
+ In the official list of crosswords, the list of words (translated into    Pig Latin) that cointain the prefix ' corr ' and the suffix ' tion '    is: 
+['orrectioncay', 'orrelationcay', 'orroborationcay', 'orrugationcay', 'orruptioncay']
+
+=================================================
+ Required prefix: re
+ Required suffix: tion
+
+ In the official list of crosswords, the list of words (translated into    Pig Latin) that cointain the prefix ' re ' and the suffix ' tion '    is: 
+['eactionray', 'eactivationray', 'ealizationray', 'eapportionray', 'ecapitulationray', 'eceptionray', 'ecertificationray', 'eciprocationray', 'ecirculationray', 'ecitationray', 'eclamationray', 'eclassificationray', 'ecognitionray', 'ecollectionray', 'ecommendationray', 'econciliationray', 'econsiderationray', 'ecreationray', 'ecriminationray', 'ectificationray', 'ecuperationray', 'ededicationray', 'edemptionray', 'eductionray', 'eevaluationray', 'eexaminationray', 'eflectionray', 'efractionray', 'efrigerationray', 'efutationray', 'egenerationray', 'egimentationray', 'egistrationray', 'egulationray', 'egurgitationray', 'ehabilitationray', 'ehospitalizationray', 'eincarnationray', 'einfectionray', 'einjectionray', 'einsertionray', 'eintegrationray', 'einvestigationray', 'eiterationray', 'ejectionray', 'ejuvenationray', 'elationray', 'elaxationray', 'elegationray', 'elocationray', 'emonstrationray', 'emotionray', 'emunerationray', 'enditionray', 'enovationray', 'enunciationray', 'eorganizationray', 'eparationray', 'epatriationray', 'epetitionray', 'epletionray', 'epresentationray', 'eprobationray', 'eproductionray', 'epudiationray', 'eputationray', 'equisitionray', 'eservationray', 'esignationray', 'esolutionray', 'espirationray', 'estitutionray', 'estorationray', 'estrictionray', 'esumptionray', 'esurrectionray', 'esuscitationray', 'etaliationray', 'etardationray', 'etentionray', 'etractionray', 'etributionray', 'etrospectionray', 'evaccinationray', 'evelationray', 'everberationray', 'evocationray', 'evolutionray']
+
+=================================================
+ Required prefix: 
+ Required suffix: 
+
+*********************************************************************
+
+

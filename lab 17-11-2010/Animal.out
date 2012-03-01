@@ -1,0 +1,78 @@
+#
+# File: Animal.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       11/17/2010
+# Last Modified: 11/17/2010
+#
+
+Output:
+*******
+*********************************************************************
+1.
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ javac Animal.java
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ java Animal
+Dog [Collie,F,2.0,50.0,2]
+Dog [Great Dane,M,4.0,100.0,5]
+Cat [Tabby,F,2.0,50.0,2]
+Cat [Calico,M,4.0,100.0,5]
+
+*********************************************************************
+2.
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ javac TestAnimals.java
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ java TestAnimals
+Dog [Collie,F,2.0,50.0,2]
+Dog [Great Dane,M,4.0,100.0,5]
+Cat [Tabby,F,2.0,50.0,2]
+Cat [Calico,M,4.0,100.0,5]
+
+*********************************************************************
+3.
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ javac PublicMethods.java
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ java PublicMethods
+ I am a Collie and I am F
+ I am a Tabby and I am M
+
+*********************************************************************
+4.
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ javac PublicMethods.java
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ java PublicMethods
+ I am a Collie and I am F
+ I am a Tabby and I am M
+
+Dog [Collie,F,2.0,50.0,2]
+Dog [Collie,F,2.0,50.0,3]
+
+*********************************************************************
+5.
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ javac TestAnimals.java
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ java TestAnimals
+Dog [Dummy,Collie,F,2.0,50.0,2]
+Dog [Manny,Great Dane,M,4.0,100.0,5]
+Cat [Rocky,Tabby,F,2.0,50.0,2]
+Cat [Blummy,Calico,M,4.0,100.0,5]
+
+*********************************************************************
+6.
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ javac TestAnimals.java
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ java TestAnimals
+Dog [Dummy,Collie,F,2.0,50.0,2]
+Dog [Manny,Great Dane,M,4.0,100.0,5]
+Cat [Rocky,Tabby,F,2.0,50.0,2]
+Cat [Blummy,Calico,M,4.0,100.0,5]
+Cow [Jeff,Cow,M,4.0,100.0,6]
+
+*********************************************************************
+7.
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ javac TestAnimals.java
+vburca@bcpl:/home3/vburca/cpsc115/lab 17-11-2010$ java TestAnimals
+Dog [Fido,Collie,F,2.0,50.0,2]
+Dog [Big guy,Great Dane,M,4.0,100.0,5]
+Cat [Rocky,Tabby,F,2.0,50.0,2]
+Cat [Blummy,Calico,M,4.0,100.0,5]
+Cow [Jeff,Cow,M,4.0,100.0,6]
+
+Dog [Fido,Collie,F,2.0,50.0,2] is chasing Dog [Big guy,Great Dane,M,4.0,100.0,5]
+
+*********************************************************************

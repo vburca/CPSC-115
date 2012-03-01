@@ -1,0 +1,29 @@
+#
+# File: IOSpecs_frequent_letters.txt
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Exercise 2.1
+#
+# Created:       10/27/2010
+# Last Modified: 10/27/2010
+#
+
+IO Specifications:
+******************
+ - Input: receives a list of words from a file named 'crosswords.txt' that is in the same folder 
+	  as the script is.
+ - Output: prints the frequency of the each alphabet letter in a word from the input file.
+
+Algorithm:
+**********
+ - the program gets each word from the input file.
+ - going through all the words in the input file, the scripts counts the number of words.
+ - using a function (has_ch), the program searches each word from the input file for each letter
+   of the alphabet. If it finds it, it increments the corresponding element from a list of 
+   frequencies, using the ASCII code of the respective character (like ord('a') - 97 = 0, therefore,
+   incrementing the element 0, which is the first element, of the list of frequencies).
+ - it goes through all the elements of the list of frequencies and finds the maximum frequency along
+   with its most frequent character
+ - prints the number of words from the input file; prints the frequencies of all the letters of the 
+   alphabet that are found in the words from them input files; prints the most frequent letter.

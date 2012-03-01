@@ -1,0 +1,73 @@
+#
+# File: grade2.py
+# Author: Vlad Burca
+#         Jaynie Murrell
+# Lab Section: Wednesday
+# 
+# Created:       09/15/2010
+# Last Modified: 09/15/2010
+#
+
+e_1 = input ('Enter the score of Exam 1: ')
+e1p = input ('How much is Exam 1 worth? ')
+e_2 = input ('Enter the score of Exam 2: ')
+e2p = input ('How much is Exam 2 worth? ')
+e_f = input ('Enter the score of Final Exam: ')
+efp = input ('How much is Final Exam worth? ')
+final = e1p * e_1 + e2p * e_2 + efp * e_f
+print 'Your course grade is: ', final, ' %'
+
+*******
+Output:
+*******
+
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade2.py"
+Enter the score of Exam 1: 87
+How much is Exam 1 worth? 0.4
+Enter the score of Exam 2: 78
+How much is Exam 2 worth? 0.4
+Enter the score of Final Exam: 77
+How much is Final Exam worth? 0.2
+Your course grade is:  81.4  %
+
+2.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade2.py"
+Enter the score of Exam 1: 100
+How much is Exam 1 worth? 0.3
+Enter the score of Exam 2: 55
+How much is Exam 2 worth? 0.5
+Enter the score of Final Exam: 77
+How much is Final Exam worth? 0.2
+Your course grade is:  72.9  %
+
+3.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade2.py"
+Enter the score of Exam 1: 76
+How much is Exam 1 worth? 0.3
+Enter the score of Exam 2: 44
+How much is Exam 2 worth? 0.2
+Enter the score of Final Exam: 90
+How much is Final Exam worth? 0.5
+Your course grade is:  76.6  %
+
+4.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade2.py"
+Enter the score of Exam 1: 80
+How much is Exam 1 worth? 0.3333
+Enter the score of Exam 2: 80
+How much is Exam 2 worth? 0.3333
+Enter the score of Final Exam: 80
+How much is Final Exam worth? 0.3333
+Your course grade is:  79.992  %
+
+5.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade2.py"
+Enter the score of Exam 1: 80
+How much is Exam 1 worth? 0.3333333333333333333
+Enter the score of Exam 2: 80
+How much is Exam 2 worth? 0.3333333333333333333
+Enter the score of Final Exam: 80
+How much is Final Exam worth? 0.3333333333333333333
+Your course grade is:  80.0  %
+

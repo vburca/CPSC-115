@@ -1,0 +1,30 @@
+#
+# Author: Vlad Burca
+# Date: 10/05/2010
+# 
+# Name: exam1
+#
+
+#
+#######################################################################################
+#
+# I/O specification:
+#
+# Input variables: 
+# 	- n = the size of the class
+#	- x = the score of a student
+#
+# Output variables:
+#	- float(s)/n = the average of the scores; the sum of the scores is computed in the variable s at the same time 
+#			as the scores are being put in the variable x
+#
+########################################################################################
+#
+# Algorithm:
+#
+# I read the value of the size of the class (the number of the students).
+# After this, I read the value of the score for each student and, in the same time, compute it into the sum of all the
+# scores of the students.
+# Print out the value of float(s)/n which is the average of the scores of the students.
+#
+#######################################################################################

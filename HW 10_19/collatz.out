@@ -1,0 +1,26 @@
+#
+# Author: Vlad Burca
+# Date: 10/19/2010
+# 
+# Name: collatz
+#
+
+# Project (collatz):
+#######################################################################################
+# 
+# Part 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_19/collatz.py"
+ For n <  100  the high water mark is  97  with a stopping time of  119 . 
+ For n <  1000  the high water mark is  871  with a stopping time of  179 . 
+ For n <  10000  the high water mark is  6171  with a stopping time of  262 . 
+ For n <  100000  the high water mark is  77031  with a stopping time of  351 . 
+ For n <  1000000  the high water mark is  837799  with a stopping time of  525 . 
+#
+#######################################################################################
+
+ For n < 100  the high water mark is 97  with a stopping time of 118 . 
+ For n < 1000  the high water mark is 871  with a stopping time of 178 . 
+ For n < 10000  the high water mark is 6171  with a stopping time of 261 . 
+ For n < 100000  the high water mark is 77031  with a stopping time of 350 . 
+ For n < 1000000  the high water mark is 837799  with a stopping time of 524 . 

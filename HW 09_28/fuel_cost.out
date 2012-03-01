@@ -1,0 +1,101 @@
+#
+# Author: Vlad Burca
+# Date: 09/28/2010
+# 
+# Name: fuel_cost
+#
+
+# Part 2 (fuel_cost):
+#######################################################################################
+# 
+# Test 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/fuel_cost.py"
+Enter the distance traveled for the 1st trip (in miles): 204
+Enter the cost of a gallon of gas for the 1st trip (in dollars): 2.954
+Enter the EPA mileage rating for the 1st trip (in MPG): 32
+Your total cost is  18.83175  dollars.
+
+Enter the distance traveled for the 2nd trip (in miles): 102.5
+Enter the cost of a gallon of gas for the 2nd trip (in dollars): 2.562
+Enter the EPA mileage rating for the 2nd trip (in MPG): 25
+Your total cost is  10.5042  dollars.
+
+Enter the distance traveled for the 3rd trip (in miles): 121
+Enter the cost of a gallon of gas for the 3rd trip (in dollars): 2.789
+Enter the EPA mileage rating for the 3rd trip (in MPG): 25
+Your total cost is  13.49876  dollars.
+#
+# Test 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/fuel_cost.py"
+Enter the distance traveled for the 1st trip (in miles): 104.2
+Enter the cost of a gallon of gas for the 1st trip (in dollars): 3
+Enter the EPA mileage rating for the 1st trip (in MPG): 20
+Your total cost is  15.63  dollars.
+
+Enter the distance traveled for the 2nd trip (in miles): 203
+Enter the cost of a gallon of gas for the 2nd trip (in dollars): 2.4
+Enter the EPA mileage rating for the 2nd trip (in MPG): 31
+Your total cost is  15.7161290323  dollars.
+
+Enter the distance traveled for the 3rd trip (in miles): 123
+Enter the cost of a gallon of gas for the 3rd trip (in dollars): 3.1
+Enter the EPA mileage rating for the 3rd trip (in MPG): 35
+Your total cost is  10.8942857143  dollars.
+#
+# Test 3:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/fuel_cost.py"
+Enter the distance traveled for the 1st trip (in miles): 90
+Enter the cost of a gallon of gas for the 1st trip (in dollars): 3.12
+Enter the EPA mileage rating for the 1st trip (in MPG): 27
+Your total cost is  10.4  dollars.
+
+Enter the distance traveled for the 2nd trip (in miles): 100
+Enter the cost of a gallon of gas for the 2nd trip (in dollars): 2.13
+Enter the EPA mileage rating for the 2nd trip (in MPG): 29
+Your total cost is  7.34482758621  dollars.
+
+Enter the distance traveled for the 3rd trip (in miles): 150
+Enter the cost of a gallon of gas for the 3rd trip (in dollars): 2.56
+Enter the EPA mileage rating for the 3rd trip (in MPG): 31
+Your total cost is  12.3870967742  dollars.
+#
+# Test 4:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/fuel_cost.py"
+Enter the distance traveled for the 1st trip (in miles): 22.12
+Enter the cost of a gallon of gas for the 1st trip (in dollars): 2.31
+Enter the EPA mileage rating for the 1st trip (in MPG): 34.1
+Your total cost is  1.4984516129  dollars.
+
+Enter the distance traveled for the 2nd trip (in miles): 102
+Enter the cost of a gallon of gas for the 2nd trip (in dollars): 2.45
+Enter the EPA mileage rating for the 2nd trip (in MPG): 31
+Your total cost is  8.06129032258  dollars.
+
+Enter the distance traveled for the 3rd trip (in miles): 2
+Enter the cost of a gallon of gas for the 3rd trip (in dollars): 3
+Enter the EPA mileage rating for the 3rd trip (in MPG): 15
+Your total cost is  0.4  dollars.
+#
+# Test 5:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/fuel_cost.py"
+Enter the distance traveled for the 1st trip (in miles): 1
+Enter the cost of a gallon of gas for the 1st trip (in dollars): 10
+Enter the EPA mileage rating for the 1st trip (in MPG): 3
+Your total cost is  3.33333333333  dollars.
+
+Enter the distance traveled for the 2nd trip (in miles): 2
+Enter the cost of a gallon of gas for the 2nd trip (in dollars): 4
+Enter the EPA mileage rating for the 2nd trip (in MPG): 1
+Your total cost is  8.0  dollars.
+
+Enter the distance traveled for the 3rd trip (in miles): 4
+Enter the cost of a gallon of gas for the 3rd trip (in dollars): 12
+Enter the EPA mileage rating for the 3rd trip (in MPG): 15
+Your total cost is  3.2  dollars.
+#
+#######################################################################################

@@ -1,0 +1,52 @@
+#
+# Author: Vlad Burca
+# Date: 12/07/2010
+# 
+# Name: isMagic
+#
+
+#######################################################################################
+# 
+1)
+#
+
+Enter the size of your square: 3
+
+Now, enter a square by rows.
+
+Enter row 0: 6 7 2
+Enter row 1: 1 5 9
+Enter row 2: 8 3 4
+
+The square you entered
+
+   6   7   2
+   1   5   9
+   8   3   4
+
+is a magic square!
+
+#
+#######################################################################################
+#
+2)
+#
+
+Enter the size of your square: 3
+
+Now, enter a square by rows.
+
+Enter row 0: 1 2 3
+Enter row 1: 3 4 5
+Enter row 2: 6 7 8
+
+The square you entered
+
+   1   2   3
+   3   4   5
+   6   7   8
+
+is not a magic square!
+
+#
+#######################################################################################

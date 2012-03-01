@@ -1,0 +1,82 @@
+#
+# File: coffee2.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       09/29/2010
+# Last Modified: 09/29/2010
+#
+
+*******
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 29-09-2010/coffee2.py"
+ Welcome to Allysa's Coffee! 
+ Enter today's price for one pound: 9.95
+ How many pounds for this order? 6
+ With  9.95  dollars a pound, the total for  6  is  65.7  dollars.
+ How many pounds for this order? 2
+ With  9.95  dollars a pound, the total for  2  is  22.9  dollars.
+ How many pounds for this order? 3
+ With  9.95  dollars a pound, the total for  3  is  33.6  dollars.
+
+
+*********************************************************************
+
+2.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 29-09-2010/coffee2.py"
+ Welcome to Allysa's Coffee! 
+ Enter today's price for one pound: 10
+ How many pounds for this order? 3
+ With  10  dollars a pound, the total for  3  is  33.75  dollars.
+ How many pounds for this order? 2
+ With  10  dollars a pound, the total for  2  is  23.0  dollars.
+ How many pounds for this order? 1
+ With  10  dollars a pound, the total for  1  is  12.25  dollars.
+
+*********************************************************************
+
+3.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 29-09-2010/coffee2.py"
+ Welcome to Allysa's Coffee! 
+ Enter today's price for one pound: 1.23
+ How many pounds for this order? 10
+ With  1.23  dollars a pound, the total for  10  is  21.3  dollars.
+ How many pounds for this order? 32
+ With  1.23  dollars a pound, the total for  32  is  64.86  dollars.
+ How many pounds for this order? 40
+ With  1.23  dollars a pound, the total for  40  is  80.7  dollars.
+
+
+*********************************************************************
+
+4.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 29-09-2010/coffee2.py"
+ Welcome to Allysa's Coffee! 
+ Enter today's price for one pound: 4
+ How many pounds for this order? 7
+ With  4  dollars a pound, the total for  7  is  34.75  dollars.
+ How many pounds for this order? 4
+ With  4  dollars a pound, the total for  4  is  20.5  dollars.
+ How many pounds for this order? 5
+ With  4  dollars a pound, the total for  5  is  25.25  dollars.
+
+
+*********************************************************************
+
+5.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 29-09-2010/coffee2.py"
+ Welcome to Allysa's Coffee! 
+ Enter today's price for one pound: 3.111111
+ How many pounds for this order? 3
+ With  3.111111  dollars a pound, the total for  3  is  13.083333  dollars.
+ How many pounds for this order? 2
+ With  3.111111  dollars a pound, the total for  2  is  9.222222  dollars.
+ How many pounds for this order? 4
+ With  3.111111  dollars a pound, the total for  4  is  16.944444  dollars.
+
+
+*********************************************************************
+

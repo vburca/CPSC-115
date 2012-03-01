@@ -1,0 +1,20 @@
+#
+# File: coffee1.txt
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       09/29/2010
+# Last Modified: 09/29/2010
+#
+
+I/O Specifications & Algorithm:
+*******************************
+
+Input variables: price - gets the price for one pound as a value.
+		 pounds - gets the number of pounds as a value.
+
+Output variables: total_cost - after the total cost is computed in this variable, it is printed.
+
+Algorithm: - the program reads the price for one pound and the number of pounds
+ 	   - after that, it computes the total cost of the order (including the delivery tax and the overhead charge
+	   - it prints the variable total_cost, which is the total cost of the order

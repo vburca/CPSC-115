@@ -1,0 +1,57 @@
+#
+# Author: Vlad Burca
+# Date: 11/02/2010
+# 
+# Name: my_find
+#
+
+# Exercise 1.1 (my_find):
+#######################################################################################
+# 
+# Test 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/my_find.py"
+ The sequence: ACAATGGGAGAGTCCATTCT
+ The subsequence: AT
+ The starting point of the search: 0
+ The ending point of the search: 20
+ The lowest start index of thegiven subsequence is:  3
+#
+# Test 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/my_find.py"
+ The sequence: ACAATGGGAGAGTCCATTCT
+ The subsequence: AT
+ The starting point of the search: 10
+ The ending point of the search: 20
+ The lowest start index of thegiven subsequence is:  15
+#
+# Test 3:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/my_find.py"
+ The sequence: ACAATGGGAGAGTCCATTCT
+ The subsequence: AT
+ The starting point of the search: 5
+ The ending point of the search: 15
+ The lowest start index of thegiven subsequence is:  -1
+#
+# Test 4:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/my_find.py"
+ The sequence: ACAATGGGAGAGTCCATTCT
+ The subsequence: GA
+ The starting point of the search: 0
+ The ending point of the search: 20
+ The lowest start index of thegiven subsequence is:  7
+#
+# Test 5:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/my_find.py"
+ The sequence: ACAATGGGAGAGTCCATTCT
+ The subsequence: GA
+ The starting point of the search: 8
+ The ending point of the search: 20
+ The lowest start index of thegiven subsequence is:  9
+#
+#######################################################################################
+

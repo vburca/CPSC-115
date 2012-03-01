@@ -1,0 +1,56 @@
+#
+# Author: Vlad Burca
+# Date: 10/19/2010
+# 
+# Name: three_n_plus_1
+#
+
+# Project (three_n_plus_1):
+#######################################################################################
+# 
+# Part 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_19/three_n_plus_1.py"
+ Collatz Conjecture for: 
+
+ n =  1
+ Interative 	:  1
+ Recursive 	:  1
+
+ n =  2
+ Interative 	:  2 1
+ Recursive 	:  2 1
+
+ n =  3
+ Interative 	:  3 10 5 16 8 4 2 1
+ Recursive 	:  3 10 5 16 8 4 2 1
+
+ n =  4
+ Interative 	:  4 2 1
+ Recursive 	:  4 2 1
+
+ n =  5
+ Interative 	:  5 16 8 4 2 1
+ Recursive 	:  5 16 8 4 2 1
+
+ n =  6
+ Interative 	:  6 3 10 5 16 8 4 2 1
+ Recursive 	:  6 3 10 5 16 8 4 2 1
+
+ n =  7
+ Interative 	:  7 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+ Recursive 	:  7 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+
+ n =  8
+ Interative 	:  8 4 2 1
+ Recursive 	:  8 4 2 1
+
+ n =  9
+ Interative 	:  9 28 14 7 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+ Recursive 	:  9 28 14 7 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+
+ n =  10
+ Interative 	:  10 5 16 8 4 2 1
+ Recursive 	:  10 5 16 8 4 2 1
+#
+#######################################################################################

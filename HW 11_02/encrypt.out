@@ -1,0 +1,42 @@
+#
+# Author: Vlad Burca
+# Date: 11/02/2010
+# 
+# Name: encrypt
+#
+
+# Exercise 2.1 (encrypt):
+#######################################################################################
+# 
+# Test 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/encrypt.py"
+ Enter a plaintext message: the quick brown fox jumps over the lazy dog
+ Your message is encrypted as:  WKH TXLFN EURZQ IRA MXPSV RYHU WKH ODCB GRJ
+#
+# Test 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/encrypt.py"
+ Enter a plaintext message: the radio is on the table
+ Your message is encrypted as:  WKH UDGLR LV RQ WKH WDEOH
+#
+# Test 3:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/encrypt.py"
+ Enter a plaintext message: i am hungry
+ Your message is encrypted as:  L DP KXQJUB
+#
+# Test 4:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/encrypt.py"
+ Enter a plaintext message: i am coming to your place now
+ Your message is encrypted as:  L DP FRPLQJ WR BRXU SODFH QRZ
+#
+# Test 5:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/encrypt.py"
+ Enter a plaintext message: they will get the box
+ Your message is encrypted as:  WKHB ZLOO JHW WKH ERA
+#
+#######################################################################################
+

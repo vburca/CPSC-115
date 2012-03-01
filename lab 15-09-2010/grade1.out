@@ -1,0 +1,55 @@
+
+#
+# File: grade1.py
+# Author: Vlad Burca
+#         Jaynie Murrell
+# Lab Section: Wednesday
+# 
+# Created:       09/15/2010
+# Last Modified: 09/15/2010
+#
+
+e1 = input ('Enter the score of Exam 1: ')
+e2 = input ('Enter the score of Exam 2: ')
+e_f = input ('Enter the score of Final Exam: ')
+final = 0.3 * e1 + 0.3 * e2 + 0.4 * e_f
+print 'Your course grade is: ', final, '%'
+
+*******
+Output:
+*******
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade1.py"
+Enter the score of Exam 1: 87
+Enter the score of Exam 2: 78
+Enter the score of Final Exam: 77
+Your course grade is:  80.3 %
+
+2.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade1.py"
+Enter the score of Exam 1: 100
+Enter the score of Exam 2: 100
+Enter the score of Final Exam: 70
+Your course grade is:  88.0 %
+
+3.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade1.py"
+Enter the score of Exam 1: 90
+Enter the score of Exam 2: 90
+Enter the score of Final Exam: 90
+Your course grade is:  90.0 %
+
+4.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade1.py"
+Enter the score of Exam 1: 30
+Enter the score of Exam 2: 40
+Enter the score of Final Exam: 100
+Your course grade is:  61.0 %
+
+5.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/grade1.py"
+Enter the score of Exam 1: 66
+Enter the score of Exam 2: 66
+Enter the score of Final Exam: 33
+Your course grade is:  52.8 %
+

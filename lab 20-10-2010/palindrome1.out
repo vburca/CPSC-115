@@ -1,0 +1,43 @@
+#
+# File: palindrome1.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       10/20/2010
+# Last Modified: 10/20/2010
+#
+
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/palindrome1.py"
+ Enter a word in lower-case letters: car
+ The word "car" is not a palindrome. 
+
+*********************************************************************
+2.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/palindrome1.py"
+ Enter a word in lower-case letters: palindrome
+ The word "palindrome" is not a palindrome. 
+
+*********************************************************************
+3.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/palindrome1.py"
+ Enter a word in lower-case letters: reviver
+ The word "reviver" is a palindrome. 
+
+*********************************************************************
+4.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/palindrome1.py"
+ Enter a word in lower-case letters: noon
+ The word "noon" is a palindrome. 
+
+*********************************************************************
+5.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/palindrome1.py"
+ Enter a word in lower-case letters: door
+ The word "door" is not a palindrome. 
+
+*********************************************************************
+

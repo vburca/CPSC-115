@@ -1,0 +1,43 @@
+#
+# File: reverse.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       10/20/2010
+# Last Modified: 10/20/2010
+#
+
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/reverse.py"
+ Enter your string: trinity
+ The reversed string of "trinity" is:  ytinirt
+
+*********************************************************************
+2.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/reverse.py"
+ Enter your string: reviver
+ The reversed string of "reviver" is:  reviver
+
+*********************************************************************
+3.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/reverse.py"
+ Enter your string: robot
+ The reversed string of "robot" is:  tobor
+
+*********************************************************************
+4.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/reverse.py"
+ Enter your string: house
+ The reversed string of "house" is:  esuoh
+
+*********************************************************************
+5.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 20-10-2010/reverse.py"
+ Enter your string: recursive
+ The reversed string of "recursive" is:  evisrucer
+
+*********************************************************************
+

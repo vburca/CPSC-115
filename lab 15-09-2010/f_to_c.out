@@ -1,0 +1,43 @@
+#
+# File: f_to_c.py
+# Author: Vlad Burca
+#         Jaynie Murrell
+# Lab Section: Wednesday
+# 
+# Created:       09/15/2010
+# Last Modified: 09/15/2010
+#
+
+f = input ('Enter a temperature in Fahrenheit:' )
+c = (f - 32) * 5.0 / 9.0
+print 'The temperature in Celsius is ', c,' degrees.'
+
+
+*******
+Output:
+*******
+
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/f_to_c.py"
+Enter a temperature in Fahrenheit:34
+The temperature in Celsius is  1.11111111111  degrees.
+
+2.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/f_to_c.py"
+Enter a temperature in Fahrenheit:212
+The temperature in Celsius is  100.0  degrees.
+
+3.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/f_to_c.py"
+Enter a temperature in Fahrenheit:32
+The temperature in Celsius is  0.0  degrees.
+
+4.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/f_to_c.py"
+Enter a temperature in Fahrenheit:64
+The temperature in Celsius is  17.7777777778  degrees.
+
+5.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 15-09-2010/f_to_c.py"
+Enter a temperature in Fahrenheit:30
+The temperature in Celsius is  -1.11111111111  degrees.

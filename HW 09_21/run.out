@@ -1,0 +1,52 @@
+#
+# Author: Vlad Burca
+# Date: 09/21/2010
+# 
+# Name: Homework 2
+#
+
+#
+#######################################################################################
+# Part 2
+#
+# Test 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/Homework/run.py"
+Enter the hour of the start time: 12
+Enter the minute of the start time: 41
+Enter the number of miles I will run at tempo: 2
+If I start at  12  :  41   AM  and run  2  milies at tempo, then I will be home at  1  :  11  :  54   PM  .
+#
+# Test 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/Homework/run.py"
+Enter the hour of the start time: 6
+Enter the minute of the start time: 52
+Enter the number of miles I will run at tempo: 2
+If I start at  6  :  52   AM  and run  2  milies at tempo, then I will be home at  7  :  22  :  54   AM  .
+#
+# Test 3:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/Homework/run.py"
+Enter the hour of the start time: 12
+Enter the minute of the start time: 02
+Enter the number of miles I will run at tempo: 3
+If I start at  12  :  02   PM  and run  3  milies at tempo, then I will be home at  12  :  40  :  06   PM  .
+#
+# Test 4:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/Homework/run.py"
+Enter the hour of the start time: 14
+Enter the minute of the start time: 46
+Enter the number of miles I will run at tempo: 5
+If I start at  2  :  46   PM  and run  5  milies at tempo, then I will be home at  3  :  38  :  30   PM  .
+#
+# Test 5:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/Homework/run.py"
+Enter the hour of the start time: 23
+Enter the minute of the start time: 40
+Enter the number of miles I will run at tempo: 7
+If I start at  11  :  40   PM  and run  7  milies at tempo, then I will be home at  12  :  46  :  54   AM  .
+#
+#######################################################################################

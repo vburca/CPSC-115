@@ -1,0 +1,24 @@
+#
+# File: IOSpecs_palindrome1.txt
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Exercise 2.1
+#
+# Created:       10/20/2010
+# Last Modified: 10/20/2010
+#
+
+IO Specifications:
+******************
+ - Input: receives a lower case word.
+ - Output: prints if the word is a palindrome or not.
+
+Algorithm:
+**********
+ - the program reads the lower case word (s1).
+ - uses another string, s2, and, in the while loop, it constructs the
+reverse of string 1 (s1).
+ - it compares the 2 strings; if they are the same, prints that 
+string 1 (s1) is a palindrome, if they are not the same, prints
+that s1 is not a palindrome.

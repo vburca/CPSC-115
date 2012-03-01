@@ -1,0 +1,34 @@
+#
+# File: coffee3.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       09/29/2010
+# Last Modified: 09/29/2010
+#
+
+*******
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 29-09-2010/coffee3.py"
+ Welcome to Allysa's Coffee! 
+ Enter today's price for one pound: 9.95
+ Price List for Bulk Purchases at  9.95  dollars per pound.
+ Pounds 	 Cost 		 With 5% Discount
+  1 		12.2 		11.7
+  2 		22.9 		21.9
+  3 		33.6 		32.11
+  4 		44.3 		42.31
+  5 		55.0 		52.51
+  6 		65.7 		62.71
+  7 		76.4 		72.92
+  8 		87.1 		83.12
+  9 		97.8 		93.32
+  10 		108.5 		103.53
+
+
+
+*********************************************************************
+

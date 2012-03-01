@@ -1,0 +1,30 @@
+#
+# Author: Vlad Burca
+# Date: 09/28/2010
+# 
+# Name: fuel_cost
+#
+
+#
+#######################################################################################
+#
+# I/O specification:
+#
+# Input variables: 
+# 	- miles = the number of miles traveled
+#	- cost_gallon = the cost of a gallon of gas
+#	- epa the EPA mileage rating
+#
+# Output variables:
+#	- total_cost = the total cost of the gas for the given trip
+#
+########################################################################################
+#
+# Algorithm:
+#
+# I read the input values in their respective variables.
+# I call the function ("print_cost") that computes the total cost of the gas for the given trip.
+# The function uses a formula based on the EPA formula to computer the total cost of the gas.
+# I print the total cost, previously computed in the function "print_cost".
+#
+#######################################################################################

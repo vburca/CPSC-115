@@ -1,0 +1,20 @@
+#
+# File: tion.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       11/03/2010
+# Last Modified: 11/03/2010
+
+#
+
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 03-11-2010/tion.py"
+ In the official list of crosswords, the list of words that contain 'tion'as a suffix is: 
+  ['abloom', 'accustom', 'angstrom', 'anteroom', 'atom', 'axiom', 'ballroom', 'barroom', 'bathroom', 'bedroom', 'begloom', 'besom', 'bloom', 'blossom', 'boom', 'boredom', 'bosom', 'bossdom', 'bottom', 'bridegroom', 'broadloom', 'broom', 'buxom', 'cardamom', 'carom', 'carrom', 'celom', 'chefdom', 'chiefdom', 'chrisom', 'classroom', 'clerkdom', 'coatroom', 'coelom', 'condom', 'courtroom', 'custom', 'czardom', 'darkroom', 'dayroom', 'diatom', 'disbosom', 'dogdom', 'dogedom', 'dom', 'doom', 'dukedom', 'earldom', 'embosom', 'envenom', 'extraclassroom', 'fandom', 'fantom', 'fathom', 'fiefdom', 'filmdom', 'fireroom', 'foreboom', 'foredoom', 'freedom', 'from', 'genom', 'glom', 'gloom', 'groom', 'guardroom', 'gunroom', 'gypsydom', 'halidom', 'handloom', 'hansom', 'headroom', 'heirdom', 'heirloom', 'hippiedom', 'homeroom', 'idiom', 'imbosom', 'intercom', 'jarldom', 'jetsom', 'jibboom', 'kingdom', 'legroom', 'lissom', 'loom', 'maelstrom', 'martyrdom', 'mom', 'moviedom', 'mudroom', 'mushroom', 'newsroom', 'nom', 'noncom', 'officialdom', 'om', 'outbloom', 'pachadom', 'pagandom', 'pashadom', 'phantom', 'phenom', 'playroom', 'pogrom', 'pompom', 'poolroom', 'popedom', 'prom', 'puppydom', 'random', 'ransom', 'rebeldom', 'rebloom', 'rhabdom', 'room', 'saintdom', 'saleroom', 'schoolroom', 'seldom', 'selfdom', 'serfdom', 'shahdom', 'shalom', 'sheikdom', 'sheikhdom', 'sholom', 'showroom', 'sickroom', 'simoom', 'slalom', 'stardom', 'stateroom', 'storeroom', 'subatom', 'sunroom', 'symptom', 'syncom', 'taproom', 'tearoom', 'thraldom', 'tom', 'toolroom', 'toom', 'transom', 'tsardom', 'tzardom', 'unbosom', 'unwisdom', 'vagrom', 'venom', 'villadom', 'vroom', 'wardroom', 'wareroom', 'washroom', 'whilom', 'whom', 'whoredom', 'wifedom', 'wisdom', 'workroom', 'yom', 'zoom']
+*********************************************************************
+
+

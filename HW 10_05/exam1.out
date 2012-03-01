@@ -1,0 +1,84 @@
+#
+# Author: Vlad Burca
+# Date: 10/05/2010
+# 
+# Name: exam1
+#
+
+# Part 1.1 (exam1):
+#######################################################################################
+# 
+# Test 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam1.py"
+ What is the size of the class?   5
+
+ Now enter the scores below.
+
+ Student 1:   79
+ Student 2:   87
+ Student 3:   67
+ Student 4:   96
+ Student 5:   83
+
+ The average is  82.4
+#
+# Test 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam1.py"
+ What is the size of the class?   3
+
+ Now enter the scores below.
+
+ Student 1:   1
+ Student 2:   2
+ Student 3:   3
+
+ The average is  2.0
+#
+# Test 3:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam1.py"
+ What is the size of the class?   5
+
+ Now enter the scores below.
+
+ Student 1:   34
+ Student 2:   29
+ Student 3:   31
+ Student 4:   31
+ Student 5:   31
+
+ The average is  31.2
+#
+# Test 4:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam1.py"
+ What is the size of the class?   7
+
+ Now enter the scores below.
+
+ Student 1:   100
+ Student 2:   31
+ Student 3:   31
+ Student 4:   20
+ Student 5:   100
+ Student 6:   20
+ Student 7:   31
+
+ The average is  47.5714285714
+#
+# Test 5:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam1.py"
+ What is the size of the class?   3
+
+ Now enter the scores below.
+
+ Student 1:   55
+ Student 2:   55
+ Student 3:   55
+
+ The average is  55.0
+#
+#######################################################################################

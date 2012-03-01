@@ -1,0 +1,62 @@
+#
+# Author: Vlad Burca
+# Date: 09/28/2010
+# 
+# Name: Homework 3
+#
+
+# Part 1
+#######################################################################################
+#
+# Exercise 1:
+#
+repeat_lyrics()
+
+def print_lyrics():
+    print "I'm a lumberjack, and I'm okay."
+    print "I sleep all night and I work all day."
+
+def repeat_lyrics():
+    print_lyrics()
+    print_lyrics()
+#
+# 
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/Homework3.py"
+Traceback (most recent call last):
+  File "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/Homework3.py", line 1, in <module>
+    repeat_lyrics()
+NameError: name 'repeat_lyrics' is not defined
+#
+#
+# I get this error because I call a function that is not yet defined. It is defined after I call it, that's why I get that error.
+#
+#######################################################################################
+#
+# Exercise 2:
+#
+def repeat_lyrics():
+    print_lyrics()
+    print_lyrics()
+    
+def print_lyrics():
+    print "I'm a lumberjack, and I'm okay."
+    print "I sleep all night and I work all day."
+
+repeat_lyrics()
+#
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/Homework3.py"
+I'm a lumberjack, and I'm okay.
+I sleep all night and I work all day.
+I'm a lumberjack, and I'm okay.
+I sleep all night and I work all day.
+#
+#
+# This example works, because the function "print_lyrics()" is "executed" before it is called. Even though, speaking in terms of 
+# the writing order, the function "print_lyrics()" is actually defined after the function "repeat_lyrics()" (which is actually 
+# the function that calls it), the function gets to be called once repeat_lyrics() is called. And when that happens, "print_lyrics()"
+# is already defined and thus, "executed". So when it comes up for "repeat_lyrics()" to call "print_lyrics()", this one is therefore
+# "executed".
+#
+#######################################################################################
+

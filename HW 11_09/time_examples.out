@@ -1,0 +1,167 @@
+#
+# Author: Vlad Burca
+# Date: 11/09/2010
+# 
+# Name: time_examples
+#
+
+# Exercise 1.1 - 1.5 (time_examples):
+#######################################################################################
+# 
+>>> 
+to_seconds(): 
+------------- 
+1 ):
+Number of initial hours: 9
+Number of initial minutes: 23
+Number of initial seconds: 56
+Time  09:23:56  to seconds:  33836
+
+2 ):
+Number of initial hours: 10
+Number of initial minutes: 0
+Number of initial seconds: 0
+Time  10:00:00  to seconds:  36000
+
+3 ):
+Number of initial hours: 3
+Number of initial minutes: 14
+Number of initial seconds: 1
+Time  03:14:01  to seconds:  11641
+
+4 ):
+Number of initial hours: 4
+Number of initial minutes: 45
+Number of initial seconds: 59
+Time  04:45:59  to seconds:  17159
+
+5 ):
+Number of initial hours: 3
+Number of initial minutes: 13
+Number of initial seconds: 45
+Time  03:13:45  to seconds:  11625
+
+
+from_seconds(): 
+------------- 
+1 ):
+Number of seconds: 33836
+From  33836  seconds, time:  09:23:56
+
+2 ):
+Number of seconds: 11625
+From  11625  seconds, time:  03:13:45
+
+3 ):
+Number of seconds: 17159
+From  17159  seconds, time:  04:45:59
+
+4 ):
+Number of seconds: 11641
+From  11641  seconds, time:  03:14:01
+
+5 ):
+Number of seconds: 36000
+From  36000  seconds, time:  10:00:00
+
+
+s_increment(): 
+------------- 
+1 ):
+Number of initial hours: 9
+Number of initial minutes: 23
+Number of initial seconds: 56
+Number of seconds to increment: 100
+Time  09:23:56  incremented by  100  seconds:  09:25:36
+
+2 ):
+Number of initial hours: 4
+Number of initial minutes: 45
+Number of initial seconds: 59
+Number of seconds to increment: 1
+Time  04:45:59  incremented by  1  seconds:  04:46:00
+
+3 ):
+Number of initial hours: 10
+Number of initial minutes: 0
+Number of initial seconds: 0
+Number of seconds to increment: 120
+Time  10:00:00  incremented by  120  seconds:  10:02:00
+
+4 ):
+Number of initial hours: 3
+Number of initial minutes: 14
+Number of initial seconds: 1
+Number of seconds to increment: 59
+Time  03:14:01  incremented by  59  seconds:  03:15:00
+
+5 ):
+Number of initial hours: 23
+Number of initial minutes: 59
+Number of initial seconds: 59
+Number of seconds to increment: 1
+Time  23:59:59  incremented by  1  seconds:  00:00:00
+
+
+difference(): 
+------------- 
+1 ):
+Start time: 
+Number of initial hours: 9
+Number of initial minutes: 23
+Number of initial seconds: 56
+Finish time: 
+Number of initial hours: 10
+Number of initial minutes: 54
+Number of initial seconds: 2
+The difference between  09:23:56  and  10:54:02  :  01:30:06
+
+2 ):
+Start time: 
+Number of initial hours: 0
+Number of initial minutes: 0
+Number of initial seconds: 0
+Finish time: 
+Number of initial hours: 3
+Number of initial minutes: 15
+Number of initial seconds: 0
+The difference between  00:00:00  and  03:15:00  :  03:15:00
+
+3 ):
+Start time: 
+Number of initial hours: 10
+Number of initial minutes: 2
+Number of initial seconds: 12
+Finish time: 
+Number of initial hours: 13
+Number of initial minutes: 4
+Number of initial seconds: 5
+The difference between  10:02:12  and  13:04:05  :  03:01:53
+
+4 ):
+Start time: 
+Number of initial hours: 23
+Number of initial minutes: 45
+Number of initial seconds: 59
+Finish time: 
+Number of initial hours: 23
+Number of initial minutes: 44
+Number of initial seconds: 59
+The difference between  23:45:59  and  23:44:59  :  00:01:00
+
+5 ):
+Start time: 
+Number of initial hours: 23
+Number of initial minutes: 59
+Number of initial seconds: 59
+Finish time: 
+Number of initial hours: 0
+Number of initial minutes: 0
+Number of initial seconds: 0
+The difference between  23:59:59  and  00:00:00  :  23:59:59
+
+
+>>> 
+#
+#######################################################################################
+

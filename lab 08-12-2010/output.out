@@ -1,0 +1,79 @@
+#
+# File: Animal.out
+# Author: Vlad Burca
+	  Xiaoqi Ma
+# Lab Section: Wednesday
+# 
+# Created:       12/01/2010
+# Last Modified: 12/01/2010
+#
+
+Output:
+*******
+*********************************************************************
+1.
+vburca@erlang:/home3/vburca/cpsc115/lab 01-12-2010$ java FrequencyRecord
+a: 0
+a: 1
+a
+
+*********************************************************************
+2.
+vburca@erlang:/home3/vburca/cpsc115/lab 01-12-2010$ java FrequencyAnalyzer tomsawyer.txt
+ Unsorted frequencies: 
+a: 334
+b: 74
+c: 85
+d: 223
+e: 504
+f: 94
+g: 79
+h: 303
+i: 281
+j: 11
+k: 57
+l: 182
+m: 144
+n: 301
+o: 413
+p: 79
+q: 3
+r: 241
+s: 277
+t: 448
+u: 144
+v: 40
+w: 113
+x: 5
+y: 112
+z: 1
+
+ Sorted frequencies: 
+e: 504
+t: 448
+o: 413
+a: 334
+h: 303
+n: 301
+i: 281
+s: 277
+r: 241
+d: 223
+l: 182
+m: 144
+u: 144
+w: 113
+y: 112
+f: 94
+c: 85
+g: 79
+p: 79
+b: 74
+k: 57
+v: 40
+j: 11
+x: 5
+q: 3
+z: 1
+
+*********************************************************************

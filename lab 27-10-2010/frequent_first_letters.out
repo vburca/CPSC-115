@@ -1,0 +1,46 @@
+#
+# File: frequent_first_letters.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       10/27/2010
+# Last Modified: 10/27/2010
+
+#
+
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 27-10-2010/frequent_first_letters.py"
+ In the official list of  113809  crosswords,
+6557  words begin with ' a ' ,
+6848  words begin with ' b ' ,
+10385  words begin with ' c ' ,
+6436  words begin with ' d ' ,
+4364  words begin with ' e ' ,
+4937  words begin with ' f ' ,
+3950  words begin with ' g ' ,
+4080  words begin with ' h ' ,
+4013  words begin with ' i ' ,
+1106  words begin with ' j ' ,
+1312  words begin with ' k ' ,
+3710  words begin with ' l ' ,
+6270  words begin with ' m ' ,
+2208  words begin with ' n ' ,
+3978  words begin with ' o ' ,
+8693  words begin with ' p ' ,
+568  words begin with ' q ' ,
+7141  words begin with ' r ' ,
+12591  words begin with ' s ' ,
+5951  words begin with ' t ' ,
+2934  words begin with ' u ' ,
+1932  words begin with ' v ' ,
+2927  words begin with ' w ' ,
+82  words begin with ' x ' ,
+438  words begin with ' y ' ,
+398  words begin with ' z ' ,
+and ' s ' is the most frequently-used first letter. 
+*********************************************************************
+
+

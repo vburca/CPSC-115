@@ -1,0 +1,68 @@
+>>> 
+			 BlackJack Simulator
+			 *******************
+ Please enter your name: Vlad
+
+
+Dealer  hand: ( 11 ):  4 of Diamonds, 7 of Spades
+Vlad  hand: ( 17 ):  7 of Hearts, Jack of Hearts
+Vlad, type 1 for a hit and 0 to stay >> 0
+
+Vlad  total is  17  and  Dealer  total is  11 . 
+
+Dealer 's turn. Type any key to continue. 
+
+Dealer  takes a hit. 
+Dealer  hand: ( 17 ):  4 of Diamonds, 7 of Spades, 6 of Spades
+
+
+Vlad  total is  17  and  Dealer  total is  17 . 
+
+Vlad 's turn. Type any key to continue. 
+
+Vlad, type 1 for a hit and 0 to stay >> 0
+
+
+ ~~ Game Over! ~~ 
+
+Vlad  has  17 . 
+Dealer  has  17 . 
+
+It's a draw! 
+
+ Press 1 for playing another round, or 0 to exit the game >> 1
+ Press 1 to change the name or 0 to keep the same name >> 1
+ Please enter your name: Max
+
+
+Dealer  hand: ( 13 ):  Jack of Clubs, 3 of Spades
+Max  hand: ( 20 ):  10 of Clubs, Queen of Clubs
+Max, type 1 for a hit and 0 to stay >> 0
+
+Max  total is  20  and  Dealer  total is  13 . 
+
+Dealer 's turn. Type any key to continue. 
+
+Dealer  takes a hit. 
+Dealer  hand: ( 23 ):  Jack of Clubs, 3 of Spades, 10 of Diamonds
+That is a Bust!
+
+
+Max  total is  20  and  Dealer  total is  23 . 
+Dealer  went bust and loses the hand.
+
+Max 's turn. Type any key to continue. 
+
+Max, type 1 for a hit and 0 to stay >> 0
+
+
+ ~~ Game Over! ~~ 
+
+Max  has  20 . 
+Dealer  has  23 . 
+
+Dealer  went bust. 
+Max  wins this hand! 
+
+ Press 1 for playing another round, or 0 to exit the game >> 0
+>>> 

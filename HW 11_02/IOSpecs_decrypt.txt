@@ -1,0 +1,30 @@
+#
+# Author: Vlad Burca
+# Date: 11/02/2010
+# 
+# Name: decrypt
+#
+
+#
+#######################################################################################
+#
+# I/O specification:
+#
+# Input variables: 
+# 	- ciphertext = string of uppercase characters, without any punctuation mark.
+#
+# Output variables:
+#	- plaintext = string of lowercase characters, without any punctuation mark.
+#
+########################################################################################
+#
+# Algorithm:
+#
+# - the program reads the ciphertext.
+# - applying the function decrypt(), the program decrypts the cipher into a plaintext.
+# - in the function decrypt(), the decryption is done by modifying each element of the 
+# ciphertext string using the formula t = t + chr((ord(s[i]) - 65 - 3) % 26 + 65 + 32) . 
+# - in this way, the new string (plaintext) will be the decrypted string (using Caesar's cipher)
+# - after the function is called, the program prints the plaintext created.
+#
+#######################################################################################

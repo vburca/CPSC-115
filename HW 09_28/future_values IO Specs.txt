@@ -1,0 +1,33 @@
+#
+# Author: Vlad Burca
+# Date: 09/28/2010
+# 
+# Name: future_values
+#
+
+#
+#######################################################################################
+#
+# I/O specification:
+#
+# Input variables: 
+#	- c_amount = the initial value of the investment
+#	- i_rate = the annual interest rate
+#
+# Output variables:
+#	- amount = the value of the investment after one year
+#
+########################################################################################
+#
+# Algorithm:
+#
+# I read the input values in their respective variables.
+# I call the function ("print_next_value") in order to print the investment value over 3 years. 
+# Thus, it's a chain call, the first argument of it (which should be the current value of the investment) being another call of
+#the function "print_next_value" and so on. I do it three times, because I want to print the value over 3 years. Therefore, the 
+#function always returns the computed "amount" after it prints it. This amount is then used further in calling the function again
+#and computing the new value of investment ("amount"), printing and returning it again, for the 3rd call of the function.
+# The function ("print_next_value") computes the new value of the investment based on the current value and the annual interest rate.
+# After the computation is done, it prints the value and returns it, as described before.
+#
+#######################################################################################

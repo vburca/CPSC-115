@@ -1,0 +1,73 @@
+#
+# Author: Vlad Burca
+# Date: 09/21/2010
+# 
+# Name: Homework 2
+#
+
+#######################################################################################
+# Part 1
+#
+# Exercise 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u -i
+Python 2.7 (r27:82525, Jul  4 2010, 07:43:08) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> >>> import sys, os, wx
+>>> import math
+>>> 4/3 * math.pi * 5**3
+392.6990816987241
+>>> 
+
+# 
+# Exercise 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u -i
+Python 2.7 (r27:82525, Jul  4 2010, 07:43:08) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> >>> import sys, os, wx
+>>> (24.95 - 24.96*40/100) * 60 + 3 + 0.75 * 59
+945.2099999999998
+>>> 
+#
+#######################################################################################
+# Part 3
+#
+# Binary Notation:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u -i
+Python 2.7 (r27:82525, Jul  4 2010, 07:43:08) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> >>> import sys, os, wx
+>>> bin(115)
+'0b1110011'
+>>> bin(1823)
+'0b11100011111'
+>>> bin(2010)
+'0b11111011010'
+>>> bin(1048576)
+'0b100000000000000000000'
+>>> bin(1048575)
+'0b11111111111111111111'
+>>> 
+
+#
+# Hexadecimal Notation:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u -i
+Python 2.7 (r27:82525, Jul  4 2010, 07:43:08) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> >>> import sys, os, wx
+>>> hex(115)
+'0x73'
+>>> hex(1823)
+'0x71f'
+>>> hex(2010)
+'0x7da'
+>>> hex(1048576)
+'0x100000'
+>>> hex(1048575)
+'0xfffff'
+>>> 
+#
+#######################################################################################

@@ -1,0 +1,36 @@
+#
+# Author: Vlad Burca
+# Date: 10/05/2010
+# 
+# Name: exam2
+#
+
+#
+#######################################################################################
+#
+# I/O specification:
+#
+# Input variables: 
+# 	- n = size of the class
+# 	- x = score of the student
+#
+# Output variables:
+#	- float(s)/n = the average of the scores
+#	- nr_A = number of As
+#	- nr_B = number of Bs
+# 	- nr_C = number of Cs
+#	- nr_D = number of Ds
+# 	- nr_F = number of Fs
+#
+########################################################################################
+#
+# Algorithm:
+#
+# I read the number of students and then, for each student I read the score and, at the same time,
+# I add it to the sum of all the scores.
+# Also, I count the number of As, Bs, using conditionals (starting for the bigest value, A - [90,100], to the lowest,
+# F - [0,60).
+# After this, I print the average value of the scores, which is defined by float(s)/n.
+# In the end, using the counters for each score (A,B,...), I print the number of each grade. 
+#
+#######################################################################################

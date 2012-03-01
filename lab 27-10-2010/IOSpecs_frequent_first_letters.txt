@@ -1,0 +1,25 @@
+#
+# File: IOSpecs_re.txt
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Exercise 1.1
+#
+# Created:       11/03/2010
+# Last Modified: 11/03/2010
+#
+
+IO Specifications:
+******************
+ - Input: receives a list of words from a file named 'crosswords.txt' that is in the same folder 
+	  as the script is.
+ - Output: prints the words that have 're' as a preffix.
+
+Algorithm:
+**********
+ - the program gets each word from the input file.
+ - going through all the words in the input file, the scripts counts the number of words.
+ - by checking if each word has 're' as a preffix, it verifies whether or not it is the shortest/longest
+word with 're' as a preffix and makes the corresponding changes.
+ - prints the total number of words in the list, the number of words that start with 're' and the words that
+start with 're'. 

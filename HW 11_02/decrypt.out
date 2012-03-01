@@ -1,0 +1,42 @@
+#
+# Author: Vlad Burca
+# Date: 11/02/2010
+# 
+# Name: decrypt
+#
+
+# Exercise 2.2 (decrypt):
+#######################################################################################
+# 
+# Test 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/decrypt.py"
+ Enter a ciphertext message: YHQL YLGL YLFL
+ Your message is decrypted as:  veni vidi vici
+#
+# Test 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/decrypt.py"
+ Enter a ciphertext message: WKH TXLFN EURZQ IRA MXPSV RYHU WKH ODCB GRJ
+ Your message is decrypted as:  the quick brown fox jumps over the lazy dog
+#
+# Test 3:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/decrypt.py"
+ Enter a ciphertext message: WKH UDGLR LV RQ WKH WDEOH
+ Your message is decrypted as:  the radio is on the table
+#
+# Test 4:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/decrypt.py"
+ Enter a ciphertext message: L DP KXQJUB
+ Your message is decrypted as:  i am hungry
+#
+# Test 5:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 11_02/decrypt.py"
+ Enter a ciphertext message: WKHB ZLOO JHW WKH ERA
+ Your message is decrypted as:  they will get the box
+#
+#######################################################################################
+

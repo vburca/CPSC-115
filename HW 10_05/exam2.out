@@ -1,0 +1,114 @@
+#
+# Author: Vlad Burca
+# Date: 10/05/2010
+# 
+# Name: exam2
+#
+
+# Part 1.2 (exam2):
+#######################################################################################
+# 
+# Test 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam2.py"
+ What is the size of the class?   5
+
+ Now enter the scores below.
+
+ Student 1:   79
+ Student 2:   87
+ Student 3:   67
+ Student 4:   96
+ Student 5:   83
+
+ The average is  82.4
+
+ There are  1  A's.
+ There are  2  B's.
+ There are  1  C's.
+ There are  1  D's.
+ There are  0  F's.
+#
+# Test 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam2.py"
+ What is the size of the class?   5
+
+ Now enter the scores below.
+
+ Student 1:   41
+ Student 2:   100
+ Student 3:   90
+ Student 4:   80
+ Student 5:   70
+
+ The average is  76.2
+
+ There are  2  A's.
+ There are  1  B's.
+ There are  1  C's.
+ There are  0  D's.
+ There are  1  F's.
+#
+# Test 3:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam2.py"
+ What is the size of the class?   4
+
+ Now enter the scores below.
+
+ Student 1:   59
+ Student 2:   60
+ Student 3:   60
+ Student 4:   58
+
+ The average is  59.25
+
+ There are  0  A's.
+ There are  0  B's.
+ There are  0  C's.
+ There are  2  D's.
+ There are  2  F's.
+#
+# Test 4:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam2.py"
+ What is the size of the class?   5
+
+ Now enter the scores below.
+
+ Student 1:   100
+ Student 2:   100
+ Student 3:   0
+ Student 4:   32
+ Student 5:   10
+
+ The average is  48.4
+
+ There are  2  A's.
+ There are  0  B's.
+ There are  0  C's.
+ There are  0  D's.
+ There are  3  F's.
+#
+# Test 5:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/exam2.py"
+ What is the size of the class?   4
+
+ Now enter the scores below.
+
+ Student 1:   30
+ Student 2:   50
+ Student 3:   31
+ Student 4:   42
+
+ The average is  38.25
+
+ There are  0  A's.
+ There are  0  B's.
+ There are  0  C's.
+ There are  0  D's.
+ There are  4  F's.
+#
+#######################################################################################

@@ -1,0 +1,56 @@
+#
+# Author: Vlad Burca
+# Date: 09/28/2010
+# 
+# Name: future_values
+#
+
+# Part 3 (future_values):
+#######################################################################################
+# 
+# Test 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/future_values.py"
+ Enter the initial value of an investment: 1000
+ Enter an annual interest rate: 0.025
+ After one year, your investment is worth  1025.0  dollars.
+ After one year, your investment is worth  1050.625  dollars.
+ After one year, your investment is worth  1076.890625  dollars.
+#
+# Test 2:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/future_values.py"
+ Enter the initial value of an investment: 10
+ Enter an annual interest rate: 1
+ After one year, your investment is worth  20  dollars.
+ After one year, your investment is worth  40  dollars.
+ After one year, your investment is worth  80  dollars.
+#
+# Test 3:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/future_values.py"
+ Enter the initial value of an investment: 99
+ Enter an annual interest rate: 0.01
+ After one year, your investment is worth  99.99  dollars.
+ After one year, your investment is worth  100.9899  dollars.
+ After one year, your investment is worth  101.999799  dollars.
+#
+# Test 4:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/future_values.py"
+ Enter the initial value of an investment: 123
+ Enter an annual interest rate: 0.005
+ After one year, your investment is worth  123.615  dollars.
+ After one year, your investment is worth  124.233075  dollars.
+ After one year, your investment is worth  124.854240375  dollars.
+#
+# Test 5:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 09_28/future_values.py"
+ Enter the initial value of an investment: 100.4
+ Enter an annual interest rate: 0.02
+ After one year, your investment is worth  102.408  dollars.
+ After one year, your investment is worth  104.45616  dollars.
+ After one year, your investment is worth  106.5452832  dollars.
+#
+#######################################################################################

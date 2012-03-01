@@ -1,0 +1,14 @@
+#
+# File: degrees_conv.py
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       09/15/2010
+# Last Modified: 09/15/2010
+
+print ' Degrees and Radians Convertor '
+print ' 1. Degrees to Radians '
+print ' 2. Radians to Degrees '
+
+check = input (' Your choice: ')
+if check == 1 then

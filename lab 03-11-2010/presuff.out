@@ -1,0 +1,22 @@
+#
+# File: presuff.out
+# Author: Vlad Burca
+# Lab Section: Wednesday
+# 
+# Created:       11/03/2010
+# Last Modified: 11/03/2010
+
+#
+
+Output:
+*******
+*********************************************************************
+1.
+/usr/bin/python -u  "/home/vburca/cpsc115/lab 03-11-2010/presuff.py"
+ Required prefix: re
+ Required suffix: tion
+ In the official list of crosswords, the list of words that contain the prefix ' re ' and the suffix ' tion ' is: 
+['reaction', 'reactivation', 'realization', 'reapportion', 'recapitulation', 'reception', 'recertification', 'reciprocation', 'recirculation', 'recitation', 'reclamation', 'reclassification', 'recognition', 'recollection', 'recommendation', 'reconciliation', 'reconsideration', 'recreation', 'recrimination', 'rectification', 'recuperation', 'rededication', 'redemption', 'reduction', 'reevaluation', 'reexamination', 'reflection', 'refraction', 'refrigeration', 'refutation', 'regeneration', 'regimentation', 'registration', 'regulation', 'regurgitation', 'rehabilitation', 'rehospitalization', 'reincarnation', 'reinfection', 'reinjection', 'reinsertion', 'reintegration', 'reinvestigation', 'reiteration', 'rejection', 'rejuvenation', 'relation', 'relaxation', 'relegation', 'relocation', 'remonstration', 'remotion', 'remuneration', 'rendition', 'renovation', 'renunciation', 'reorganization', 'reparation', 'repatriation', 'repetition', 'repletion', 'representation', 'reprobation', 'reproduction', 'repudiation', 'reputation', 'requisition', 'reservation', 'resignation', 'resolution', 'respiration', 'restitution', 'restoration', 'restriction', 'resumption', 'resurrection', 'resuscitation', 'retaliation', 'retardation', 'retention', 'retraction', 'retribution', 'retrospection', 'revaccination', 'revelation', 'reverberation', 'revocation', 'revolution']
+*********************************************************************
+
+

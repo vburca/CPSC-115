@@ -1,0 +1,139 @@
+#
+# Author: Vlad Burca
+# Date: 10/05/2010
+# 
+# Name: recursion
+#
+
+# Part 2.1 (recursion):
+#######################################################################################
+# 
+# Test 1:
+#
+C:/Vlad/Compilers/Python/pythonw.exe -u  "C:/Vlad/Compilers/CPSC115 (F2010)/HW 10_05/recursion.py"
+
+
+ Value of n: 3
+***
+**
+*
+Blastoff!
+
+ Value of n: 4
+****
+***
+**
+*
+Blastoff!
+
+ Value of n: 5
+*****
+****
+***
+**
+*
+Blastoff!
+
+ Value of n: 6
+******
+*****
+****
+***
+**
+*
+Blastoff!
+
+ Value of n: 1
+*
+Blastoff!
+
+
+
+ Value of n: 1
+Start!
+*
+
+ Value of n: 2
+Start!
+*
+**
+
+ Value of n: 3
+Start!
+*
+**
+***
+
+ Value of n: 4
+Start!
+*
+**
+***
+****
+
+ Value of n: 5
+Start!
+*
+**
+***
+****
+*****
+
+
+
+ Value of n: 7
+*******
+******
+*****
+****
+***
+**
+*
+**
+***
+****
+*****
+******
+*******
+
+ Value of n: 6
+******
+*****
+****
+***
+**
+*
+**
+***
+****
+*****
+******
+
+ Value of n: 5
+*****
+****
+***
+**
+*
+**
+***
+****
+*****
+
+ Value of n: 4
+****
+***
+**
+*
+**
+***
+****
+
+ Value of n: 3
+***
+**
+*
+**
+***
+#
+#######################################################################################
